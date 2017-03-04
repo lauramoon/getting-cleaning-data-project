@@ -36,4 +36,4 @@ The script groups the dataset by both activity and subject and then applys the m
 
 This dataset is tidy because (1) each column contains a different variable, (2) each row contains a different observation (in this case, a different activity and subject), and (3) the single table forms a single observational unit (in this case, processed data collected from a single set of observations).
 
-The second, submitted dataset should load properly with the read.table() function with all default arguments. 
+The second, submitted dataset should load properly with the read.table() function with header = TRUE. 
