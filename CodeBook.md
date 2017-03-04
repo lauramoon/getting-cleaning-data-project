@@ -46,16 +46,16 @@ The remainder of this CodeBook lists and describes each column name in the final
 Note that in the submitted dataset, the values in each measurement column are the average of the values for that measurement, subject, and activity.
 
 ### 1. activity
-The activity the subject was engaged in at the time the raw data was recorded.
+The activity the subject was engaged in at the time the raw data was recorded
 
 ### 2. subject
-An integer identifying which of thirty test subjects was performing the activity.
+An integer identifying which of thirty test subjects was performing the activity
 
 ### 3-5. tBodyAccmeanX, tBodyAccmeanY, tBodyAccmeanZ
-The average acceleration of the subject's body in the X, Y, Z directions.
+The average acceleration of the subject's body in the X, Y, Z directions
 
 ### 6-8. tBodyAccstdX, tBodyAccstdY, tBodyAccstdZ
-The stadard deviation of the acceleration of of the subject's body in the X, Y, and Z direction.
+The stadard deviation of the acceleration of of the subject's body in the X, Y, and Z directions
 
 ### 9-11. tGravityAccmeanX, tGravityAccmeanY, tGravityAccmeanZ
 The average acceleration due to gravity in the X, Y, and Z directions
@@ -112,31 +112,31 @@ The average magnitude of the rate of change of angular velocity of the subject's
 The standard deviation of the magnitude of the rate of change of angular velocity of the subject's body
 
 ### 43-45. fBodyAccmeanX, fBodyAccmeanY, fBodyAccmeanZ
-The average of the Fast Fourier Transform of the acceleration of the subject's body
+The average of the Fast Fourier Transform of the acceleration of the subject's body in the X, Y, Z directions
 
 ### 46-48. fBodyAccmeanX, fBodyAccmeanY, fBodyAccmeanZ
-The standard deviation of the Fast Fourier Transform of the acceleration of the subject's body
+The standard deviation of the Fast Fourier Transform of the acceleration of the subject's body in the X, Y, Z directions
 
 ### 49-51. fBodyAccmeanFreqX, fBodyAccmeanFreqY, fBodyAccmeanFreqZ
-The average frequency of the Fast Fourier Transform of the acceleration of the subject's body
+The average frequency of the Fast Fourier Transform of the acceleration of the subject's body in the X, Y, Z directions
 
 ### 52-54. fBodyAccJerkmeanX, fBodyAccJerkmeanY, fBodyAccJerkmeanZ
-The average of the Fast Fourier Transform of the rate of change of acceleration of the subject's body
+The average of the Fast Fourier Transform of the rate of change of acceleration of the subject's body in the X, Y, Z directions
 
 ### 55-57. fBodyAccJerkstdX, fBodyAccJerkstdY, fBodyAccJerkstdZ
-The standard deviation of the Fast Fourier Transform of the rate of change of acceleration of the subject's body
+The standard deviation of the Fast Fourier Transform of the rate of change of acceleration of the subject's body in the X, Y, Z directions
 
 ### 58-60. fBodyAccJerkmeanFreqX, fBodyAccJerkmeanFreqY, fBodyAccJerkmeanFreqZ
-The average frequency of the Fast Fourier Transform of the rate of change of acceleration of the subject's body
+The average frequency of the Fast Fourier Transform of the rate of change of acceleration of the subject's body in the X, Y, Z directions
 
 ### 61-63. fBodyGyromeanX, fBodyGyromeanY, fBodyGyromeanZ
-The average of the Fast Fourier Transform of the angular velocity of the subject's body
+The average of the Fast Fourier Transform of the angular velocity of the subject's body in the X, Y, Z directions
 
 ### 64-66. fBodyGyrostdX, fBodyGyrostdY, fBodyGyrostdZ
-The standard deviation of the Fast Fourier Transform of the angular velocity of the subject's body
+The standard deviation of the Fast Fourier Transform of the angular velocity of the subject's body in the X, Y, Z directions
 
 ### 67-69. fBodyGyromeanFreqX, fBodyGyromeanFreqY, fBodyGyromeanFreqZ
-The average frequency of the Fast Fourier Transform of the angular velocity of the subject's body
+The average frequency of the Fast Fourier Transform of the angular velocity of the subject's body in the X, Y, Z directions
 
 ### 70. fBodyAccMagmean
 The average of the magnitude of Fast Fourier Transform of the acceleration of the subject's body
