@@ -69,6 +69,6 @@ run_analysis <- function (directory = getwd()) {
   meandata <- summarize_all(groupdata, mean)
   
   #Write this second dataset to a file.
-  write.table(meandata, "meandata.txt")
+  write.table(meandata, "meandata.txt", row.names = FALSE)
 
 }
